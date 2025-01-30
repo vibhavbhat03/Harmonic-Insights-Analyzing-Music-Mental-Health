@@ -34,10 +34,6 @@ This study explores how **music therapy** influences mental health by analyzing 
 - **Statistical Analysis** (T-tests, Logistic Regression, Clustering)  
 - **Data Visualization** (Matplotlib, Seaborn)  
 
-### 📬 Contact  
-📧 Email: vib.bhat@example.com  
-📌 [LinkedIn](https://www.linkedin.com/in/vibhav-bhat)  
 
----
 
-This README is **purely based on your document** and structured professionally for GitHub. Let me know if you'd like any refinements! 🚀
+
