@@ -1,5 +1,6 @@
 # Music & Mental Health: Analyzing the Impact of Music Therapy
 📌 About This Project
+
 This study explores how music therapy influences mental health by analyzing user listening behaviors, genre preferences, and therapy outcomes. Using statistical analysis, clustering, and hypothesis testing, we identify trends that provide insights for firms looking to optimize music-based interventions.
 
 🔍 Research Focus
