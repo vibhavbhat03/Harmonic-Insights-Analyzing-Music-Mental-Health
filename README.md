@@ -15,7 +15,7 @@ This study explores how **music therapy** influences mental health by analyzing 
 ✔ **Listening to music while working** – Does it reduce stress?  
 
 ### 📊 Methodology  
-🔹 **Dataset** – Survey data (736 responses) categorized by **personal info, music habits, and mental health scores**  
+🔹 **Dataset** – Survey data (7 Million responses) categorized by **personal info, music habits, and mental health scores**  
 🔹 **Clustering Analysis** – K-Means used to segment therapy users  
 🔹 **Statistical Testing** – T-tests, Chi-square, and logistic regression to determine significant relationships  
 🔹 **Data Visualization** – Boxplots, bar charts, and facet grids to uncover trends  
