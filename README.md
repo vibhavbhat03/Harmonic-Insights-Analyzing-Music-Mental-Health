@@ -1,6 +1,4 @@
-Here's a GitHub README based solely on the content from your **Music & Mental Health** document:  
 
----
 
 ## 🎵 Music & Mental Health: Analyzing the Impact of Music Therapy  
 
